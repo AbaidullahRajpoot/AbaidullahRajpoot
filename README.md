@@ -94,11 +94,39 @@
 
 <div align="center">
 
-![Abaidullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaidullahRajpoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaidullahRajpoot&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbaidullahRajpoot&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💻 Most Used Languages & Technologies
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-70%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React.js-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-85%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-85%25-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Experience Overview
+
+<div align="center">
+
+| 🏷️ Area | 📊 Level | ⏱️ Experience |
+|---|---|---|
+| MERN Stack | ████████████ Expert | 3 Years |
+| React Native | ███████████░ Advanced | 3 Years |
+| REST API Design | ████████████ Expert | 3 Years |
+| Payment Integrations | ██████████░░ Advanced | 2 Years |
+| Firebase & FCM | █████████░░░ Advanced | 2 Years |
+| AI & Automation | ████████░░░░ Intermediate | 1.5 Years |
 
 </div>
 
